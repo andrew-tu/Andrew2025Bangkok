@@ -11,7 +11,7 @@ function renderRestaurantData(restaurantData) {
 
         restaurantData.forEach(function (restaurant) {
             let restaurantHTML = `
-                            <div class="row" style="margin-top: 5px;margin-bottom: 5px;">
+                            <div class="row" style="margin-top: 5px;margin-bottom: 45px;">
                                 <!-- 左側圖片 -->
                                 <div class="col-12 col-md-6 d-flex align-items-center justify-content-center mb-3 mb-md-0">
                                     <img src=${restaurant.image} class="img-fluid rounded shadow" alt="餐廳圖片">
