@@ -11,6 +11,14 @@ const restaurants = [
     bookingLink: "https://web.hungryhub.com/en/restaurants/nama-japanese-and-seafood-buffet-hungry-hub-bangkok/web",
   },
   {
+    name: "Katsu Midori Sushi Bar Centeral World",
+    description: "日本人氣迴轉壽司品牌，位於Central World商場內，提供新鮮美味的壽司選擇，價格實惠，適合喜愛日式料理的饕客。",
+    image: "images/katsumidori.png",
+    website: "https://www.facebook.com/KatsuMidoriThailand",
+    address: "ชั้น 3 (3rd Fl 1-4/2, ศูนย์การค้าเซ็นทรัลเวิลด์, 4 4 Ratchadamri Rd, Khwaeng Pathum Wan, Pathum Wan, Bangkok 10330, Thailand",
+    bookingLink: "extra.html#不用訂位，直接前往，沒位置就算了",
+  },  
+  {
     name: "Copper Beyond Buffet Gaysorn Amarin",
     description: "Copper Beyond位於Gaysorn Amarin購物中心內，今年主打周末推出米其林主廚設計的料理，值得再訪。有週末限定菜色。",
     image: "images/copper.png",
@@ -20,7 +28,7 @@ const restaurants = [
   },
   {
     name: "手 qraft. (The Empire)",
-    description: "在EA, Empire Tower(W Hotel難面對街) 55樓的高空餐廳，提供多樣化的國際料理與精緻甜點，推薦在此享用咖啡與甜點，俯瞰曼谷美景。",
+    description: "在EA, Empire Tower(W Hotel南面對街) 55樓的高空餐廳，提供多樣化的國際料理與精緻甜點，推薦在此享用咖啡與甜點，俯瞰曼谷美景。",
     image: "images/qraft.jpg",
     website: "https://www.facebook.com/qraft.oriental",
     address: "Level 55, EA, Empire Tower, 1 S Sathon Rd, Yan Nawa, Sathon, Bangkok 10120, Thailand",
@@ -42,7 +50,14 @@ const restaurants = [
     address: "888 Chaturathit Rd, Bang Kapi, Huai Khwang, Bangkok 10310, Thailand",
     bookingLink: "https://line.me/R/ti/p/@006jxjnp",
   }, 
-
+  {
+    name: "Piranya@Siam",
+    description: "在Siam Square One附近的泰國菜餐廳，有飯、有麵、有炸物，似乎主打魚丸與餃類食品。Google評價有4.8，似乎是旅遊書推薦店家。",
+    image: "images/piranya.png",
+    website: "https://www.facebook.com/piranyasiam",
+    address: "430/27 สยามสแควร์ ซอย 9 Rama I Rd, Pathum Wan, Bangkok 10330, Thailand",
+    bookingLink: "extra.html#不用訂位，直接前往，沒位置就算了",
+  }, 
   // 可繼續加入更多餐廳物件
 ];
 
